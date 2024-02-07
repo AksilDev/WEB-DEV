@@ -1,0 +1,16 @@
+div.content{
+    
+    height: 50px;
+    width: 50px;
+    border: 100px white;
+    float:inline-end;
+    margin:50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+
+    div#first{
+        background-color: green;
+    }
+
+
+}
